@@ -15,7 +15,7 @@ Instalasi :
 
 Preview :
 - https://lab.firstplato.com/topsisp
-- 
+- https://youtu.be/MwybZgoewqM
 
 Minimum requirements :
 - PHP 5.x
