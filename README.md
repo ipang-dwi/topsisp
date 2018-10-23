@@ -1,6 +1,8 @@
 # topsisp
 Sistem Pengambil Keputusan (SPK) / DSS "Karyawan Terbaik" berbasis Web dengan Sub Kriteria dan Multi Login System - www.firstplato.com
 
+> Preview dan demo cekidot https://lab.firstplato.com/topsisp dan https://youtu.be/MwybZgoewqM
+
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
 - Web programming, terutama native PHP5, Jquery dan CSS3
 - Metode Topsis untuk Sistem Pendukung Keputusan (SPK) / Decission Support System (DSS)
