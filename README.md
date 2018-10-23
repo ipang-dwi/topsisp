@@ -25,7 +25,7 @@ Minimum requirements :
 
 Elements :
 - Bootstrap v3.x
-- Bootswatch v3.x United Themes
+- Bootswatch v3.x Materia Themes
 - Jquery v1.x
 - Datatables v1.x
 - Chart.js v1.x
