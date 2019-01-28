@@ -1,4 +1,7 @@
 # topsisp
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Sistem Pengambil Keputusan (SPK) / DSS "Karyawan Terbaik" berbasis Web dengan Sub Kriteria dan Multi Login System - www.firstplato.com
 
 > Preview dan demo cekidot https://lab.firstplato.com/topsisp dan https://youtu.be/MwybZgoewqM
